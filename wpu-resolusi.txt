@@ -3,3 +3,5 @@ WPU RESOLUSI
 - Menambah skill baru dalam pemrograman WEB
 - Konsisten untuk belajar web
 - Menulis 2 artikel
+- Membuat web sederhana
+- Memperoleh penghasilan sendiri
