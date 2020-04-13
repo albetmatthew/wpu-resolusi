@@ -2,6 +2,11 @@ RENCANA ARTIKEL
 
 - Artikel Teknologi
   *Teknologi Penerbangan
+   ^ Boeing & Airbus
   *Teknologi Militer
+   ^ Artileri
+   ^ Senjata Berat
+   ^ Pasukan Khusus
   *Teknologi Kelautan
 - Artikel Budaya
+- Artikel Sosial
