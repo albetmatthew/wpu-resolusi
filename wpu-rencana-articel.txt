@@ -5,5 +5,7 @@ RENCANA ARTIKEL
    ^ Boeing & Airbus
   *Teknologi Kelautan
     ^ Oseanografi
+   *Teknologi Antariksa
+    ^ NASA & SpaceX
 - Artikel Budaya
 - Artikel Sosial
